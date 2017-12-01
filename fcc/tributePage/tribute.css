@@ -1,0 +1,26 @@
+.container{
+	background-color: #d3d3d3;
+	margin: 80px 100px;
+	border-radius: 10px;
+	font-family: 'Russo One', sans-serif;
+
+}
+
+#title{
+	font-family: 'Berkshire Swash', cursive;
+}
+
+.onTop{
+	text-align: center;
+
+}
+
+.quote{
+	text-align: center;
+	font-style: italic;
+}
+
+.aboutMore{
+	text-align: center;
+	font-style: italic;
+}
