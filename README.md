@@ -5,5 +5,7 @@ Tech Stack:
 - CSS
 - Boostrap4
 
+The Page is deployed on [GitHub Page](https://github.com/peterhychan/tribute_page/settings).
+
 
 
